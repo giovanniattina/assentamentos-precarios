@@ -3,4 +3,6 @@
 /geodaresults
 /cache
 /resultados
-.DS_Store
+/catboost_info
+/results
+.DS_Store``
